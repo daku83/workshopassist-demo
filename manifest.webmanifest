@@ -1,0 +1,25 @@
+{
+  "name": "movec workshopAssist",
+  "short_name": "workshopAssist",
+  "description": "workshopAssist — Werkstatt-Leitstand: Disposition, Live-Status und Auslastung.",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "./",
+  "start_url": "./",
+  "background_color": "#f7fafa",
+  "theme_color": "#00aaa7",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+function o(t){return t.toFixed(1).replace(".",",")+" h"}function i(t){return t.toFixed(1).replace(".",",")}function u(t){if(!t)return"\u2013";let r=new Date(t),n=r.getHours().toString().padStart(2,"0"),e=r.getMinutes().toString().padStart(2,"0");return`${n}:${e}`}function a(t){return t==null?"\u2014":t.toLocaleString("de-DE")+" km"}export{o as a,i as b,u as c,a as d};

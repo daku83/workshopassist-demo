@@ -1,0 +1,109 @@
+{
+  "configVersion": 1,
+  "timestamp": 1784741317932,
+  "index": "/workshopassist-demo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/workshopassist-demo/chunk-BPUQQWAI.js",
+        "/workshopassist-demo/chunk-BYXBJQAS.js",
+        "/workshopassist-demo/chunk-DW7BNYQH.js",
+        "/workshopassist-demo/chunk-FFG5EFC5.js",
+        "/workshopassist-demo/chunk-G4VGHIHL.js",
+        "/workshopassist-demo/chunk-HGSSJUXX.js",
+        "/workshopassist-demo/chunk-K7DZEEY7.js",
+        "/workshopassist-demo/chunk-MEVMAPSX.js",
+        "/workshopassist-demo/chunk-MYMRCQ4V.js",
+        "/workshopassist-demo/chunk-P2DPBJRB.js",
+        "/workshopassist-demo/chunk-PFSK7CY6.js",
+        "/workshopassist-demo/chunk-ROHD3LTD.js",
+        "/workshopassist-demo/chunk-S464MRPR.js",
+        "/workshopassist-demo/chunk-TZSBXP3G.js",
+        "/workshopassist-demo/chunk-UZSM4SL7.js",
+        "/workshopassist-demo/chunk-VRMZXKHI.js",
+        "/workshopassist-demo/chunk-VVYP6YAY.js",
+        "/workshopassist-demo/chunk-VXQHYGR7.js",
+        "/workshopassist-demo/chunk-WZW7IULY.js",
+        "/workshopassist-demo/chunk-X6TEZGLM.js",
+        "/workshopassist-demo/chunk-XZ4RGULU.js",
+        "/workshopassist-demo/favicon.svg",
+        "/workshopassist-demo/index.html",
+        "/workshopassist-demo/main-FMIANURU.js",
+        "/workshopassist-demo/manifest.webmanifest",
+        "/workshopassist-demo/movec-logo.svg",
+        "/workshopassist-demo/styles-QVK3IE6G.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/workshopassist-demo/icons/icon-maskable.svg",
+        "/workshopassist-demo/icons/icon.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/workshopassist-demo/chunk-BPUQQWAI.js": "5ead4d119a0644dccfd275b7309498111f9c2081",
+    "/workshopassist-demo/chunk-BYXBJQAS.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/workshopassist-demo/chunk-DW7BNYQH.js": "fee8823f088ca79e8b8250246b07176ba207de40",
+    "/workshopassist-demo/chunk-FFG5EFC5.js": "dbc4cdcba438f3819e161c7f756509b3c5c3a7f1",
+    "/workshopassist-demo/chunk-G4VGHIHL.js": "d2e64fcdec693a1b6b487170ad4787d12c2f811d",
+    "/workshopassist-demo/chunk-HGSSJUXX.js": "14deac0be9983d894cef011db1e24edaddeb6258",
+    "/workshopassist-demo/chunk-K7DZEEY7.js": "83614a171f0d7e1da0692c17a10b9893ef6ceee9",
+    "/workshopassist-demo/chunk-MEVMAPSX.js": "471e7dd59a2ee1fdf9c4e27fd93a9f8682487a5c",
+    "/workshopassist-demo/chunk-MYMRCQ4V.js": "f645a507993875855608f2b9a8f7c2a9d457f0dd",
+    "/workshopassist-demo/chunk-P2DPBJRB.js": "4236986ad250a221e9a1d8a3e9f17c9da66e19a3",
+    "/workshopassist-demo/chunk-PFSK7CY6.js": "e2ddd1c91dbf7a11d13b541efd2cef290616d326",
+    "/workshopassist-demo/chunk-ROHD3LTD.js": "7ab0c554bcf69cbd20891df42725352c90c8b361",
+    "/workshopassist-demo/chunk-S464MRPR.js": "a364de6a553ea9df5a70f009d4702db134bc65ee",
+    "/workshopassist-demo/chunk-TZSBXP3G.js": "8fa18ab5ce616fabacfc909b348dee4f6f55e6af",
+    "/workshopassist-demo/chunk-UZSM4SL7.js": "ede96e038f42f531785d075ff15677fc6e8bbe9f",
+    "/workshopassist-demo/chunk-VRMZXKHI.js": "c580a7c02cd9cf424832dc070f8408bdb7e91165",
+    "/workshopassist-demo/chunk-VVYP6YAY.js": "cfcc74ea78a48016567e4bf49e2947a867e2191f",
+    "/workshopassist-demo/chunk-VXQHYGR7.js": "a08272004b2ed42b9020e19e8186ba223f313099",
+    "/workshopassist-demo/chunk-WZW7IULY.js": "876e55833607fb1df20aa90fc792457838102165",
+    "/workshopassist-demo/chunk-X6TEZGLM.js": "9740a63e63bb8e7619d1350f382c09841243835b",
+    "/workshopassist-demo/chunk-XZ4RGULU.js": "9bed31910f8424504c8dee93882b2a60de9a4e06",
+    "/workshopassist-demo/favicon.svg": "60d66ce818d1986ad6ce21c1e3e56c6436c2b0ec",
+    "/workshopassist-demo/icons/icon-maskable.svg": "f1ef5237ac359a4bd4f614e5d17883566c922a81",
+    "/workshopassist-demo/icons/icon.svg": "a4cfebb643cb5b70e1d3f4b3f78cbd89a55657c7",
+    "/workshopassist-demo/index.html": "2ef2e34ff7ed5f0709fa85c1c20ca000a8c3e6fc",
+    "/workshopassist-demo/main-FMIANURU.js": "bdadee6568fe1201082e99c56c1ba4b9008ac4c4",
+    "/workshopassist-demo/manifest.webmanifest": "58ba1a8cbdc93b6ba0a4a76f15a145d57747f2a6",
+    "/workshopassist-demo/movec-logo.svg": "4731ec4871c35ce4cb977d92f6cb51177a05c3ef",
+    "/workshopassist-demo/styles-QVK3IE6G.css": "babf29ec01a97ed38df4cdc4522e106bcf080219"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

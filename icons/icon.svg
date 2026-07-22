@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" role="img" aria-labelledby="title desc">
+  <title id="title">workshopAssist PWA Icon</title>
+  <desc id="desc">A turquoise workshop technician with an orange workshop planning board.</desc>
+  <defs>
+    <linearGradient id="teal" x1="260" y1="190" x2="810" y2="1015" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#11b2ba"/>
+      <stop offset="1" stop-color="#009db4"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="620" y1="780" x2="980" y2="1035" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8500"/>
+      <stop offset="1" stop-color="#ff6b00"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Cap -->
+  <path fill="url(#teal)" d="M423 459V386c0-102 83-184 185-184h19c102 0 185 82 185 184v43c0 13-13 19-24 13-57-33-117-53-178-53-48 0-95 13-142 37l-28 15c-8 4-17 0-17-10Z"/>
+  <path fill="url(#teal)" d="M449 458c38-20 94-37 159-37 66 0 124 17 190 48 26 12 48 24 42 36-7 14-33 12-61 6l-79-18c-66-15-128-13-189 6-38 12-68 19-92 7-20-10-28-30-20-42 7-10 26-9 50-6Z"/>
+
+  <!-- Head, ears and neck; transparent face opening -->
+  <ellipse cx="445" cy="548" rx="46" ry="62" fill="url(#teal)"/>
+  <ellipse cx="742" cy="548" rx="46" ry="62" fill="url(#teal)"/>
+  <path d="M458 494v47c0 104 61 190 149 190s148-86 148-190v-47" fill="none" stroke="url(#teal)" stroke-width="28" stroke-linecap="round"/>
+  <path fill="url(#teal)" d="M518 702h178v87H518z"/>
+
+  <!-- Torso -->
+  <path fill="url(#teal)" d="M441 731c-91 24-155 106-155 201v51c0 16 13 29 29 29h126V731Z"/>
+  <path fill="url(#teal)" d="M473 760c0-16 13-29 29-29h168c27 0 53 6 76 16l-97 97c-26 26-40 60-40 97v71H473V760Z"/>
+
+  <!-- Planning board -->
+  <rect x="625" y="782" width="352" height="251" rx="24" fill="none" stroke="url(#orange)" stroke-width="27"/>
+  <rect x="669" y="838" width="133" height="32" rx="16" fill="url(#orange)"/>
+  <rect x="734" y="894" width="137" height="32" rx="16" fill="url(#orange)"/>
+  <rect x="795" y="950" width="139" height="32" rx="16" fill="url(#orange)"/>
+</svg>
